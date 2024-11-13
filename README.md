@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @AmruthaLukka
+- 👀 I’m interested in front end and backend coding also exploring new technologies
+- 🌱 I’m currently pursuing Bachelors in Computer Sciend and Engineering from G.Narayanmma Institute of Technology and Science
+- I've knowledge in programming languages like Java,Python and C. Also learned Data structures using C, Database system using SQL.
+- Have acquaintance and a lot of interest in operating system, Ful stack web development and data base.
+- 💞️ I’m currently an Executive member of Rotaract club of GNITS , also class representative of III CSE A.
+- 😄 Pronouns: She/Her
+- How to Reach me: amruthagnits@gmail.com
